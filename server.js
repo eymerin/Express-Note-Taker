@@ -3,6 +3,7 @@ const fs = require('fs');
 const express = require('express');
 const path = require('path');
 var {notesAll} = require('./db/db.json');
+const uniqid = require('uniqid');
 
 //create app object
 const app = express();
