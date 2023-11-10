@@ -24,7 +24,7 @@
   --------
   No usage instructions needed.
 
-  (Optional: Video provided to demostrate how to run the program.)
+  ![]()
 
   ## Contribution
   ---------------
