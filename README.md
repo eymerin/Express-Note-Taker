@@ -24,7 +24,7 @@
   --------
   No usage instructions needed.
 
-  ![]()
+  ![](https://github.com/eymerin/Express-Note-Taker/blob/main/public/assets/note-taker.jpg)
 
   ## Contribution
   ---------------
