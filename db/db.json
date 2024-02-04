@@ -1,3 +1,24 @@
 {
-  "notesAll": []
+  "notesAll": [
+    {
+      "title": "Movie List",
+      "text": "Notebook\nThe matrix\nTombstone\nRainman",
+      "id": "jx28gls6z6xou"
+    },
+    {
+      "title": "Spices",
+      "text": "Cinnamon\n",
+      "id": "jx28gls6z7oy6"
+    },
+    {
+      "title": "Cars",
+      "text": "Prius",
+      "id": "jx28gls6z81mm"
+    },
+    {
+      "title": "Basketball",
+      "text": "Jazz",
+      "id": "jx28gls6z8efl"
+    }
+  ]
 }
